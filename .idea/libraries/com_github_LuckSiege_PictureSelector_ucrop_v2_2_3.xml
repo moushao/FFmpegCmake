@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.LuckSiege.PictureSelector:ucrop-v2.2.3">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/.gradle/caches/transforms-1/files-1.1/ucrop-v2.2.3.aar/f02c0ee6b9f072fd46f42ea73b65b51a/res" />
+      <root url="jar://$APPLICATION_HOME_DIR$/.gradle/caches/transforms-1/files-1.1/ucrop-v2.2.3.aar/f02c0ee6b9f072fd46f42ea73b65b51a/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
